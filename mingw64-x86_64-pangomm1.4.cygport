@@ -3,8 +3,8 @@ ORIG_PN="pangomm"
 inherit cross gtkmm
 
 NAME="mingw64-x86_64-pangomm1.4"
-VERSION=2.34.0
-RELEASE=3
+VERSION=2.38.1
+RELEASE=1
 CATEGORY="Devel"
 SUMMARY="Pango C++ bindings for Win64 toolchain"
 DESCRIPTION="This package does NOT contain cygwin binaries.  Instead, it
